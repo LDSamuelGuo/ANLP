@@ -2,3 +2,4 @@
 !pip install sentence-transformers
 !pip install rouge
 !pip install langchain_community
+!pip install faiss-cpu
